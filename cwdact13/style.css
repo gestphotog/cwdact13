@@ -89,7 +89,7 @@ p {
 }
 
 #hero {
-  background: url("../image/fitness.jpg") no-repeat center center/ cover;
+  background: url("fitness.jpg") no-repeat center center/ cover;
   height: 600px;
 }
 
@@ -178,7 +178,7 @@ p {
 
 /* section testimonials */
 #testimonials {
-  background: url("/image/fitness1.jpg") no-repeat center center/cover;
+  background: url("fitness1.jpg") no-repeat center center/cover;
   height: 600px;
   overflow: hidden;
 }
